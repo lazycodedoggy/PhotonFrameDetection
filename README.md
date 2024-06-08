@@ -29,4 +29,4 @@ inference.exe -i <tif_path1> -i <tif_path2> -o <outputfile>
 
 # Others
 
-For any question, welcome to contact the email stephen4sheng@gmail.com or wx: ahuatian655418
+For any question or trained models in this project, welcome to contact the email stephen4sheng@gmail.com or wx: ahuatian655418
